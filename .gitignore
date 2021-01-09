@@ -37,3 +37,4 @@
 /web/*/.gitignore
 /web/*/*/.gitignore
 load.environment.php
+/*/*/.htaccess
