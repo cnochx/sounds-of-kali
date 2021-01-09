@@ -37,6 +37,7 @@
         "drupal/token": "^1.9",
         "drupal/visitors": "^2.7",
         "drupal/webform": "^6.0",
+        "drupal/zuvi": "^1.5",
         "drush/drush": "^10.3",
         "vlucas/phpdotenv": "^5.1",
         "webflo/drupal-finder": "^1.2"

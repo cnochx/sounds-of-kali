@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "db10fd1dd2da8c47a6013449f35e2b52",
+    "content-hash": "8f1ad109f3e44856824dea3de3adfd85",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3588,6 +3588,50 @@
                 "issues": "https://www.drupal.org/project/issues/webform?version=8.x",
                 "docs": "https://www.drupal.org/docs/8/modules/webform",
                 "forum": "https://drupal.stackexchange.com/questions/tagged/webform"
+            }
+        },
+        {
+            "name": "drupal/zuvi",
+            "version": "1.5.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/zuvi.git",
+                "reference": "8.x-1.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/zuvi-8.x-1.5.zip",
+                "reference": "8.x-1.5",
+                "shasum": "4c265c3d70febee32ecdc1de7d56bf1ecaa56c23"
+            },
+            "require": {
+                "drupal/core": "^8 || ^9"
+            },
+            "type": "drupal-theme",
+            "extra": {
+                "drupal": {
+                    "version": "8.x-1.5",
+                    "datestamp": "1593889254",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "ravis",
+                    "homepage": "https://www.drupal.org/user/79351"
+                }
+            ],
+            "description": "A light weight, flexible, fully responsive and multi-purpose Drupal 8 theme by <a href=\"https://www.drupar.com\" target=\"_blank\">Drupar.com</a>",
+            "homepage": "https://www.drupal.org/project/zuvi",
+            "support": {
+                "source": "https://git.drupalcode.org/project/zuvi"
             }
         },
         {
