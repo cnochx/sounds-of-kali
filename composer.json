@@ -531,6 +531,8 @@
         "drupal/diff": "^1.0",
         "drupal/easy_breadcrumb": "^1.13",
         "drupal/field_group": "^3.1",
+        "drupal/imce": "^2.3",
+        "drupal/jquery_ui_accordion": "^1.1",
         "drupal/metatag": "^1.15",
         "drupal/paragraphs": "^1.12",
         "drupal/pathauto": "^1.8",
